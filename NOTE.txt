@@ -1,0 +1,4 @@
+Use:
+Tensorflow 2.1
+Cuda 10.1
+protobuf==3.6.0
